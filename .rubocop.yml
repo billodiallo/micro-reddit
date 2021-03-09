@@ -53,3 +53,5 @@ Metrics/CyclomaticComplexity:
   Enabled: false
 Metrics/PerceivedComplexity:
   Enabled: false
+AllCops:
+  EnabledByDefault: false  
