@@ -5,7 +5,6 @@
 This project of active record, models, and associations to the tests  where a user can create a post and add comments to it.
 
 
-
 ## Screenshot
 
 
@@ -16,7 +15,8 @@ This project of active record, models, and associations to the tests  where a us
 ![Screenshot](app/assets/images/img5.PNG)
 ![Screenshot](app/assets/images/img6.PNG)
 ## Built With
- [RUBY](https://github.com/billodiallo/Rspec-tic_tic_toe)
+ [RUBY](https://github.com/billodiallo/micro-reddit)
+
 
 ## Getting Started
 
@@ -52,9 +52,6 @@ Terminal or similar to execute the program.
 - Github: [@githubhandle](https://github.com/Prabhakarzx)
 - Twitter: [@twitterhandle](https://twitter.com/prabhakarzx)
 - Linkedin: [linkedin](https://www.linkedin.com/in/prabhakarzx/)
-
-
-
 
 ## 🤝 Contributing
 
