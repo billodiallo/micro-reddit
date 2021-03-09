@@ -38,9 +38,13 @@ Now you can check the validations and associations of these models.
 ## Prequisites
 
 - Ruby installed on your local machine.
-Terminal or similar to execute the program.
+- Terminal or similar to execute the program.
 - Ruby on rails
 
+## Run app
+- Type bundle install in the root file of the project.
+- Type rails db:migrate in the root file of the project.
+- Type rails s in the root file of the project.
 
 ## Authors
 
