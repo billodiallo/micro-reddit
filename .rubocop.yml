@@ -1,8 +1,9 @@
 AllCops:
   NewCops: enable
   Exclude:
-    - "Guardfile"
-    - "Rakefile"
+    - 'Rakefile'
+    - '**/*.rake'
+    - 'test/**/*.rb'
 
   DisplayCopNames: true
 
