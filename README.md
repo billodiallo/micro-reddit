@@ -53,7 +53,7 @@ Terminal or similar to execute the program.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/greg0109/TicTacToe/issues).
+Feel free to check the [issues page](https://github.com/billodiallo/micro-reddit/issues/2).
 
 ## Show your support
 
