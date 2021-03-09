@@ -1,4 +1,5 @@
 AllCops:
+  NewCops: enable
   Exclude:
     - "Guardfile"
     - "Rakefile"
@@ -6,15 +7,15 @@ AllCops:
   DisplayCopNames: true
 
 Layout/LineLength:
-  Max: 250
+  Max: 120
 Metrics/MethodLength:
-  Max: 30
+  Max: 20
 Metrics/AbcSize:
   Max: 50
 Metrics/ClassLength:
   Max: 150
 Metrics/BlockLength:
-  ExcludedMethods: ['describe']
+  IgnoredMethods: ['describe']
   Max: 30
 
 
@@ -38,8 +39,6 @@ Layout/ExtraSpacing:
 Layout/MultilineMethodCallIndentation:
   Enabled: true
   EnforcedStyle: indented
-  Layout/EndOfLine:
-    EnforcedStyle: lf
 Lint/RaiseException:
   Enabled: false
 Lint/StructNewOverride:
@@ -50,11 +49,3 @@ Style/HashTransformKeys:
   Enabled: false
 Style/HashTransformValues:
   Enabled: false
-Security/Open:
-  Enabled: false
-Lint/ScriptPermission:
-  Enabled: false
-# Layout/Tab:
-#  Enabled: false
-
-  
