@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+# rubocop:disable Style/Documentation
+
 class CreateUsers < ActiveRecord::Migration[6.1]
   def change
     create_table :user do |t|
@@ -10,3 +12,4 @@ class CreateUsers < ActiveRecord::Migration[6.1]
     end
   end
 end
+# rubocop:enable Style/Documentation
