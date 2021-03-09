@@ -1,0 +1,15 @@
+current directory: /home/ppandey/AMicroverseJune20/RailsRoR/micro-reddit/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20210308-10750-12fmfb.rb extconf.rb
+creating Makefile
+
+current directory: /home/ppandey/AMicroverseJune20/RailsRoR/micro-reddit/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/ppandey/AMicroverseJune20/RailsRoR/micro-reddit/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/ppandey/AMicroverseJune20/RailsRoR/micro-reddit/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20210308-10750-cbom2b
