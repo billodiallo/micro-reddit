@@ -47,6 +47,13 @@ Terminal or similar to execute the program.
 - GitHub: [@billodiallo](https://github.com/billodiallo)
 - Twitter: [@BilloDi83547008](https://twitter.com/BilloDi83547008)
 
+👤 Prabhakar Pandey
+
+- Github: [@githubhandle](https://github.com/Prabhakarzx)
+- Twitter: [@twitterhandle](https://twitter.com/prabhakarzx)
+- Linkedin: [linkedin](https://www.linkedin.com/in/prabhakarzx/)
+
+
 
 
 ## 🤝 Contributing
