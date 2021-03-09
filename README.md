@@ -14,14 +14,11 @@ This is an active record project built to reflect active record association(mode
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is Github Scrapping Tool built with ruby. This Tools is built as a capstone project for completing one of Microverse's Main Technical Curriculum sections.
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## Installation
 
-To use this scraper this is what you need to:
+To use THIS ACTIVE record project :
 * Have ruby installed in your computer
 * [Download]https://github.com/billodiallo/micro-reddit) or clone this repo:
   - Clone with SSH:
