@@ -1,3 +1,4 @@
+# rubocop:disable  Lint/ScriptPermission
 #!/usr/bin/env ruby.exe
 APP_ROOT = File.expand_path('..', __dir__)
 Dir.chdir(APP_ROOT) do
@@ -15,3 +16,4 @@ Dir.chdir(APP_ROOT) do
     exit 1
   end
 end
+# rubocop:enable  Lint/ScriptPermission
