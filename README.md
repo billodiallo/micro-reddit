@@ -17,6 +17,8 @@ This project of active record, models, and associations to the tests  where a us
 ## Built With
  [RUBY](https://github.com/billodiallo/micro-reddit)
 
+## Install
+In order to run, you need to install RUBY and Rails in your computer. For windows you can go to Ruby installer and for MAC and LINUX you can go to Ruby official site for intructions on how to intall it.
 
 ## Getting Started
 
