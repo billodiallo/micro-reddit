@@ -1,2 +1,6 @@
 class User < ApplicationRecord
-end
+    validates :name, presence: true
+  
+    has_many :posts
+    has_many :comments
+  end
