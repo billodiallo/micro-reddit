@@ -27,7 +27,7 @@ To use THIS ACTIVE record project :
   ```
 - Clone with HTTPS
   ```
-    github.com/billodiallo/scraper-capstone-ruby.git
+    https://github.com/billodiallo/micro-reddit.git
   ```
 * `cd` into `micro-reddit` directory and run `bundle install`
 
