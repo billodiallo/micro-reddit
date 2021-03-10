@@ -1,12 +1,12 @@
 # Active Records Project
 This is an active record project built to reflect active record association(models associations) and validations.
-Did the following tasks:
+#### Did the following tasks:
 
-Created a User model
-Created a Post model
-Created a Comment model
-Adjust associations between models
-Create migration files with required foreign keys.
+- [x] Created a User model
+- [x] Created a Post model
+- [x] Created a Comment model
+- [x] Adjust associations between models
+- [x] Create migration files with required foreign keys.
 
 # Screenshoot
 ![demo3](https://user-images.githubusercontent.com/11162987/110584149-d20f9b80-817f-11eb-82ed-c6257602f3ed.JPG)
