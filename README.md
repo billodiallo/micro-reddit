@@ -42,9 +42,9 @@ To use THIS ACTIVE record project :
 Ruby on rails
 
 ### Run app
-Type bundle install in the root file of the project.
-Type rails db:migrate in the root file of the project.
-Type rails s in the root file of the project.
+- Type bundle install in the root file of the project.
+- Type rails db:migrate in the root file of the project.
+- Type rails s in the root file of the project.
 
 
 <!-- CONTACT -->
