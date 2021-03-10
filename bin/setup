@@ -1,5 +1,6 @@
+# rubocop:disable  Lint/ScriptPermission
 #!/usr/bin/env ruby.exe
-require "fileutils"
+require 'fileutils'
 
 # path to your application root.
 APP_ROOT = File.expand_path('..', __dir__)
@@ -34,3 +35,4 @@ FileUtils.chdir APP_ROOT do
   puts "\n== Restarting application server =="
   system! 'bin/rails restart'
 end
+# rubocop:enable  Lint/ScriptPermission
