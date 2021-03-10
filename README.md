@@ -41,6 +41,11 @@ To use THIS ACTIVE record project :
 ### Built With
 Ruby on rails
 
+### Run app
+Type bundle install in the root file of the project.
+Type rails db:migrate in the root file of the project.
+Type rails s in the root file of the project.
+
 
 <!-- CONTACT -->
 ## Contact
