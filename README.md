@@ -35,7 +35,7 @@ To use THIS ACTIVE record project :
 * [Download]https://github.com/billodiallo/micro-reddit) or clone this repo:
   - Clone with SSH:
   ```
-   https://github.com/billodiallo/micro-reddit.git
+  git@github.com:billodiallo/micro-reddit.git
   ```
 - Clone with HTTPS
   ```
