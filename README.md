@@ -1,5 +1,12 @@
 # Active Records Project
 This is an active record project built to reflect active record association(models associations) and validations.
+#### Did the following tasks:
+
+- [x] Created a User model
+- [x] Created a Post model
+- [x] Created a Comment model
+- [x] Adjust associations between models
+- [x] Create migration files with required foreign keys.
 
 # Screenshoot
 ![demo3](https://user-images.githubusercontent.com/11162987/110584149-d20f9b80-817f-11eb-82ed-c6257602f3ed.JPG)
@@ -29,7 +36,7 @@ To use THIS ACTIVE record project :
 * [Download]https://github.com/billodiallo/micro-reddit) or clone this repo:
   - Clone with SSH:
   ```
-   https://github.com/billodiallo/micro-reddit.git
+  git@github.com:billodiallo/micro-reddit.git
   ```
 - Clone with HTTPS
   ```
@@ -41,6 +48,11 @@ To use THIS ACTIVE record project :
 
 ### Built With
 Ruby on rails
+
+### Run app
+- Type bundle install in the root file of the project.
+- Type rails db:migrate in the root file of the project.
+- Type rails s in the root file of the project.
 
 
 <!-- CONTACT -->
@@ -65,5 +77,11 @@ Ruby on rails
 
 ## 📝 License
 
-This project is [MIT](LICENSE) licensed.
+Copyright 2021 Prabhakar Pandey And Billo Diallo
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
